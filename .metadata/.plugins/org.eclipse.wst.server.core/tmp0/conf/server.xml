@@ -160,7 +160,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\Subhadip Maity\OneDrive\Desktop\Hospital-Manegement-System\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Subhadip Maity\OneDrive\Desktop\Hospital-Manegement-System\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Hospital-Management-System" path="/Hospital-Management-System" reloadable="true" source="org.eclipse.jst.j2ee.server:Hospital-Management-System"/></Host>
+      <Context docBase="C:\Users\Subhadip Maity\OneDrive\Desktop\Hospital-Management-System\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Subhadip Maity\OneDrive\Desktop\Hospital-Management-System\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Hospital-Management-System" path="/Hospital-Management-System" reloadable="true" source="org.eclipse.jst.j2ee.server:Hospital-Management-System"/></Host>
     </Engine>
   </Service>
 </Server>
